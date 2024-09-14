@@ -24,3 +24,22 @@ Hardware:
 
 
 
+Install:
+
+Open INO file in arduino IDE
+
+fill in:
+- mqtt user
+- mqtt pass
+- ssid
+- ssid pass
+- ip of mqtt broker
+- mac of buwizz
+- mqtt broker port 
+
+Flash INO file to ESP32
+
+Put mp3 files on sd card
+insert sd card in dfplayer
+
+
