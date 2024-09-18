@@ -39,7 +39,7 @@ fill in:
 
 Flash INO file to ESP32
 
-Put mp3 files on sd card
+Put mp3 files on sd card (order is important!)
 insert sd card in dfplayer
 
 
